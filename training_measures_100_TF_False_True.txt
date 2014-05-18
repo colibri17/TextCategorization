@@ -1,0 +1,23 @@
+accuracy Naive Bayes training: 0.857868801971
+micro precision with Naive Bayes training 0.857868801971
+macro precision with Naive Bayes training 0.6774133351
+micro recall with Naive Bayes training 0.857868801971
+macro recall with Naive Bayes training 0.746357789116
+
+accuracy Random Forest training: 0.992608561749
+micro precision with Random Forest training 0.992608561749
+macro precision with Random Forest training 0.986808027959
+micro recall with Random Forest training 0.992608561749
+macro recall with Random Forest training 0.985545760429
+
+accuracy SVM training 0.933939020634
+micro precision with SVM training 0.933939020634
+macro precision with SVM training 0.813006907525
+micro recall with SVM training 0.933939020634
+macro recall with SVM training 0.746678665173
+
+accuracy Perceptron training: 0.883892824145
+micro precision with Perceptron training 0.883892824145
+macro precision with Perceptron training 0.691673112338
+micro recall with Perceptron training 0.883892824145
+macro recall with Perceptron training 0.748671751248

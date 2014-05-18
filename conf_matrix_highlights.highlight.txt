@@ -1,0 +1,9 @@
+
+acq (680) -> earn 27 | crude 15 | money-fx 11 | ship  9 | grain  3 | interest  2 | trade  1
+crude (153) -> ship 11 | acq  4 | earn  2 | money-fx  2 | trade  2 | grain  1 | interest  1
+earn (1059) -> acq 30 | crude  4 | trade  2 | ship  2 | money-fx  1 | interest  1
+grain (136) -> ship  7 | trade  6 | money-fx  3 | crude  2 | acq  1 | interest  1
+interest (52) -> money-fx 15 | trade  1
+money-fx (145) -> interest 29 | trade  7 | crude  2 | ship  2
+ship (11) -> crude  2 | money-fx  1 | interest  1
+trade (86) -> grain  8 | money-fx  2 | crude  2 | acq  1 | interest  1 | ship  1

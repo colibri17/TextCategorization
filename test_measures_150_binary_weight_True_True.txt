@@ -1,0 +1,40 @@
+accuracy with Naive Bayes test 0.897566718995
+precision with Naive Bayes test [ 0.92133333  0.78125     0.98102467  0.86666667  0.6407767   0.81927711
+  0.55555556  0.65217391]
+recall with Naive Bayes test [ 0.9650838   0.69444444  0.95036765  0.87837838  0.75        0.75555556
+  0.34883721  0.85714286]
+micro precision with Naive Bayes test 0.897566718995
+macro precision with Naive Bayes test 0.777257242999
+micro recall with Naive Bayes test 0.897566718995
+macro recall with Naive Bayes test 0.774976236346
+
+accuracy with Random Forest test 0.911302982732
+precision with Random Forest test [ 0.90909091  0.86931818  0.96360328  0.87179487  0.76470588  0.78378378
+  0.73333333  0.85148515]
+recall with Random Forest test [ 0.94972067  0.85        0.97334559  0.91891892  0.59090909  0.80555556
+  0.25581395  0.81904762]
+micro precision with Random Forest test 0.911302982732
+macro precision with Random Forest test 0.843389423299
+micro recall with Random Forest test 0.911302982732
+macro recall with Random Forest test 0.770413924568
+
+accuracy with SVM test 0.921507064364
+precision with SVM test [ 0.94598338  0.86486486  0.97718978  0.93661972  0.65517241  0.78034682
+  0.55555556  0.8173913   0.        ]
+recall with SVM test [ 0.95391061  0.88888889  0.984375    0.89864865  0.64772727  0.75
+  0.34883721  0.8952381   0.        ]
+micro precision with SVM test 0.921507064364
+macro precision with SVM test 0.725902648689
+micro recall with SVM test 0.921507064364
+macro recall with SVM test 0.707513969926
+
+accuracy with Perceptron test 0.899921507064
+precision with Perceptron test [ 0.96148148  0.82446809  0.96393147  0.95384615  0.72131148  0.72727273
+  0.3442623   0.80612245  0.        ]
+recall with Perceptron test [ 0.90642458  0.86111111  0.98253676  0.83783784  0.5         0.84444444
+  0.48837209  0.75238095  0.        ]
+micro precision with Perceptron test 0.899921507064
+macro precision with Perceptron test 0.700299570775
+micro recall with Perceptron test 0.899921507064
+macro recall with Perceptron test 0.685900864945
+

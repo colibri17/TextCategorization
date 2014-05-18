@@ -1,0 +1,40 @@
+accuracy with Naive Bayes test 0.893642072214
+precision with Naive Bayes test [ 0.91744341  0.76190476  0.97554092  0.85517241  0.67021277  0.79768786
+  0.38095238  0.67669173]
+recall with Naive Bayes test [ 0.9622905   0.71111111  0.953125    0.83783784  0.71590909  0.76666667
+  0.18604651  0.85714286]
+micro precision with Naive Bayes test 0.893642072214
+macro precision with Naive Bayes test 0.754450780489
+micro recall with Naive Bayes test 0.893642072214
+macro recall with Naive Bayes test 0.748766197261
+
+accuracy with Random Forest test 0.901883830455
+precision with Random Forest test [ 0.90798376  0.85        0.95601436  0.87162162  0.78181818  0.74093264
+  0.52941176  0.83333333]
+recall with Random Forest test [ 0.93715084  0.85        0.97886029  0.87162162  0.48863636  0.79444444
+  0.20930233  0.80952381]
+micro precision with Random Forest test 0.901883830455
+macro precision with Random Forest test 0.808889458558
+micro recall with Random Forest test 0.901883830455
+macro recall with Random Forest test 0.742442462114
+
+accuracy with SVM test 0.919937205651
+precision with SVM test [ 0.93287671  0.89385475  0.97547684  0.94074074  0.6744186   0.79651163
+  0.47826087  0.79338843  0.        ]
+recall with SVM test [ 0.95111732  0.88888889  0.98713235  0.85810811  0.65909091  0.76111111
+  0.25581395  0.91428571  0.        ]
+micro precision with SVM test 0.919937205651
+macro precision with SVM test 0.720614285865
+micro recall with SVM test 0.919937205651
+macro recall with SVM test 0.697283150706
+
+accuracy with Perceptron test 0.894034536892
+precision with Perceptron test [ 0.94868035  0.77889447  0.96396396  0.89781022  0.82758621  0.7294686
+  0.3125      0.84285714  0.        ]
+recall with Perceptron test [ 0.90363128  0.86111111  0.98345588  0.83108108  0.54545455  0.83888889
+  0.58139535  0.56190476  0.        ]
+micro precision with Perceptron test 0.894034536892
+macro precision with Perceptron test 0.700195661778
+micro recall with Perceptron test 0.894034536892
+macro recall with Perceptron test 0.678546989394
+
